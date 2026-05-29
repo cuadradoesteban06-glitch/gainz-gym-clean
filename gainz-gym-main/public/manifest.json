@@ -1,0 +1,19 @@
+{
+  "name": "GainZ",
+  "short_name": "GainZ",
+  "description": "Tu entrenador personal. Subí de nivel, mantené tu racha.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E0B08",
+  "theme_color": "#0E0B08",
+  "icons": [
+    {
+      "src": "/gainz-logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
