@@ -1395,7 +1395,7 @@ function Profile({
 }
 
 function Row({ k, v }: { k: string; v: string }) {
-  return (
+  return <div style={{color:"white"}}>FUNCIONA</div>;
     <div className="row" style={{ justifyContent: "space-between", padding: "8px 0", borderBottom: "1px solid var(--border-c)" }}>
       <span className="label-sm">{k}</span>
       <span style={{ fontWeight: 700 }}>{v}</span>
